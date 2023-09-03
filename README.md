@@ -40,12 +40,8 @@ Additionally, best checkpoint versions of each model are saved as:
    cd Vanishing-Point-Detection
    ```
 
-3. **Install Dependencies**:  
-   ```
-   pip install -r requirements.txt  # You may need to create this file or manually install required libraries
-   ```
 
-4. **Run the Notebook**:  
+3. **Run the Notebook**:  
    ```
    jupyter notebook vpIndv211.ipynb
    ```
